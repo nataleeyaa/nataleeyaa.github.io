@@ -1,0 +1,18 @@
+<html>
+  <body>
+    <h1 style ="color:purple; text-align:center; font-size:40px"> Natalia </h1>
+    <p style = "text-align:center;"> Your not-so-average human being <p>
+    <a href = "http://www.mcvts.org">
+      <img alt = "Me in cat form">
+      <img style= "border-radius: 100%; width: 400px; height: 400px;" src = http://ih0.redbubble.net/image.168755475.5770/flat,1000x1000,075,f.jpg>
+    </a>
+    <p> Here is a bit about me: </p>
+    <ul>
+      <li> I <3 noodles </li>
+      <li> I am in Computer Science </li>
+      <li> My phone runs out of battery too quickly it makes me cri </li>
+      <li> I am very clumsy </li>
+      <li> I am a <a href = http:// www.google.com> neko atsume </a> enthusiast  </li>
+    <ul>
+  </body>
+</html>
